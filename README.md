@@ -31,5 +31,6 @@
 
 - [Скачать интерактивный дашборд в Excel — 12,8 МБ](transaction_dashboard.xlsx)
 - [Презентация проекта](transaction_analysis_presentation.pdf)
+- [Открыть интерактивный дашборд в Google Sheets](https://docs.google.com/spreadsheets/d/1mY4LC0k2CpkaVV01FpzvIXDb6cag7cXGX_tGj6-pfGs/edit?gid=641490099#gid=641490099)
 
 Дашборд позволяет выбирать торговую точку, диапазон суммы и платёжную систему, а также анализировать количество, сумму и средний размер платежей.
